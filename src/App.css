@@ -45,3 +45,8 @@
 nav {
   display: flex;
 }
+
+Button {
+  background-color: green;
+  border-radius: 10px;
+}
